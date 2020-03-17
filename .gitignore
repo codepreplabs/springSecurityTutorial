@@ -26,3 +26,6 @@ buildNumber.properties
 # Maven
 log/
 target/
+02configureAuthorization/mvnw
+02configureAuthorization/mvnw.cmd
+02configureAuthorization/.mvn/
