@@ -29,3 +29,6 @@ target/
 02configureAuthorization/mvnw
 02configureAuthorization/mvnw.cmd
 02configureAuthorization/.mvn/
+03spring-security-jdbc/.mvn/
+03spring-security-jdbc/mvnw.cmd
+03spring-security-jdbc/mvnw
