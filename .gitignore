@@ -32,3 +32,9 @@ target/
 03spring-security-jdbc/.mvn/
 03spring-security-jdbc/mvnw.cmd
 03spring-security-jdbc/mvnw
+04spring-security-jpa/mvnw.cmd
+04spring-security-jpa/mvnw
+04spring-security-jpa/.mvn/wrapper/maven-wrapper.properties
+04spring-security-jpa/.mvn/wrapper/maven-wrapper.jar
+04spring-security-jpa/.mvn/wrapper/MavenWrapperDownloader.java
+04spring-security-jpa/.mvn/
