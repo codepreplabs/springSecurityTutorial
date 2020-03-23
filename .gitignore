@@ -38,3 +38,6 @@ target/
 04spring-security-jpa/.mvn/wrapper/maven-wrapper.jar
 04spring-security-jpa/.mvn/wrapper/MavenWrapperDownloader.java
 04spring-security-jpa/.mvn/
+05spring-security-jwt/.mvn/
+05spring-security-jwt/mvnw.cmd
+05spring-security-jwt/mvnw
